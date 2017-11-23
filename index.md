@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Little China Bakery 
 
-You can use the [editor on GitHub](https://github.com/jenziweiwu/CP202/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Here will be a description of the website
 
 ### Markdown
 
